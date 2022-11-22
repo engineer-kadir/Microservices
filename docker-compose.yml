@@ -3,10 +3,10 @@ version: '3.1'
 services:
   s_api_gateway:
     container_name: c_api_gateway
-    image:kadiryildiz/apigateway
+    image: kadiryildiz/apigateway
     build:
       context: .
-      dockerfile:APIGateway/Dockerfile
+      dockerfile: APIGateway/Dockerfile
     ports:
       - 80:80
     networks:

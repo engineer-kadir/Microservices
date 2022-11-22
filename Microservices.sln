@@ -13,7 +13,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reservation.API", "Services
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ContactAPI", "ContactAPI", "{AEE4BBC5-7F79-457C-A65C-CDDBADB583F6}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ReservationAPI", "ReservationAPI", "{11379C34-99C9-4140-8AFA-5B55497FD29F}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ResAPI", "ResAPI", "{11379C34-99C9-4140-8AFA-5B55497FD29F}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contact.API.Infrastructure", "Services\ContactAPI\Contact.API.Infrastructure\Contact.API.Infrastructure.csproj", "{98D5921C-4B6B-4933-9312-ABC7D2B01A6C}"
 EndProject
